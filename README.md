@@ -33,4 +33,3 @@ This is a React-based application that implements a dynamic table with two types
    npm run dev
    ```
 
-   ```
