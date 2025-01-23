@@ -16,7 +16,7 @@ This is a React-based application that implements a dynamic table with two types
 ## Technologies
 
 - React
-- CSS (Plain CSS/TailwindCSS/Bootstrap)
+- CSS (Plain CSS)
 - [React Select (optional)](https://react-select.com/)
 
 ## Installation
@@ -25,8 +25,11 @@ This is a React-based application that implements a dynamic table with two types
    ```bash
    git clone https://github.com/udayswaroop/react-label.git
    cd <react-label>
+   ```
 2. To install and run react app
-   cd frontend/ 
+   cd frontend/
    npm install
    npm run dev
+   ```
+
    ```
