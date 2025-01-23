@@ -27,6 +27,7 @@ This is a React-based application that implements a dynamic table with two types
    cd <react-label>
    ```
 2. To install and run react app
+   ```bash
    cd frontend/
    npm install
    npm run dev
